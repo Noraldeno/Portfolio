@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Porfolio Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noraldeno/Portfolio.git"
+  },
+  "author": "Norald Alejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noraldeno/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Noraldeno/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
